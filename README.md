@@ -1,10 +1,2 @@
 WebApplication
 ==============
-sdfsdf
-ssdfsdf
-dfg
-df
-gdf
-gdf
-gd
-f
